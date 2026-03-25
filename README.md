@@ -97,7 +97,9 @@ SQL for data validation
 QA best practices and test case design
 
 📫 Let’s Connect
+
 LinkedIn: www.linkedin.com/in/jennifer-alvarado-da
+
 Email: jennifer.a.alvarado@gmail.com
 
 ---

@@ -9,6 +9,7 @@ I’m a Quality & Training Analyst with a strong foundation in data analysis, pr
 Over the past year, I’ve been increasingly focused on quality engineering practices, including testing workflows, validating data integrity, and supporting compliance-driven initiatives. I bring a blend of analytical thinking + QA mindset, with a growing focus on automation and scalable testing solutions.
 
 🔍 What I Do
+
 Perform manual and exploratory testing across workflows and reporting systems
 Validate data accuracy and integrity across multiple sources (Salesforce, SQL, Kibana)
 Conduct root cause analysis on defects, inconsistencies, and performance gaps

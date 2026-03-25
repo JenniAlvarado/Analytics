@@ -16,6 +16,7 @@ Conduct root cause analysis on defects, inconsistencies, and performance gaps
 Build and optimize QA reporting frameworks and KPI scorecards
 Design process documentation and testable workflows
 Collaborate with cross-functional teams to improve quality and efficiency
+
 🧰 Tools & Technologies
 
 Testing & QA
@@ -49,6 +50,7 @@ Figma
 Google Workspace / MS Office
 
 📊 QA-Focused Projects
+
 📌 Real-Time Audit Queue Dashboard Optimization
 Designed dashboards to monitor QA audit queues and workload distribution
 Improved visibility into backlog trends and SLA adherence
@@ -57,6 +59,7 @@ Reduced manual tracking through automated reporting
 👉 QA Impact: Enabled faster identification of bottlenecks and improved testing prioritization
 
 📌 Query Enhancement & Data Validation
+
 Optimized SQL queries for structured QA reporting datasets
 Validated data outputs to ensure accuracy and consistency
 Supported downstream QA analysis and reporting
@@ -64,12 +67,14 @@ Supported downstream QA analysis and reporting
 👉 QA Impact: Strengthened data integrity validation, a critical component of QA engineering
 
 📌 Fax Reporting Analytics Dashboard
+
 Built dashboards to track operational performance and anomalies
 Aggregated multi-source data to identify inconsistencies
 
 👉 QA Impact: Helped detect process defects and reporting gaps
 
 ⚖️ Compliance & Workflow Testing (Recent Focus)
+
 Assisted with compliance research and validation processes
 Tested and supported implementation of new workflows and procedures
 Contributed to training and support documentation for system/process changes
